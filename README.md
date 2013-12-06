@@ -8,7 +8,7 @@ Remote Centre ID (RC_ID) :
 College / Institute Name : Shree L.R Tiwari College of Engineering
 
 
-City, State, Pin Code : Thane, Maharashtra 401107, 
+City, State, Pin Code : Thane, Maharashtra, 401107 
 
 Name of the Student : Divya Aishwarya
 
