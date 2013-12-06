@@ -16,7 +16,7 @@ About : CowsAndBulls game is an exciting way to learn about the probability of o
 
 Installation procedure : Step 1: Download the CowsandBulls.apk file in the bin folder 
 Step 2: Save it in the Android folder in the File Manager directory of the device.
-Step 3: Clip on the CowsandBulls icon in the saved folder (the app starts installation automatically).
+Step 3: Click on the CowsandBulls icon in the saved folder and press install (the app starts installation automatically).
 
 
 Usage :-
